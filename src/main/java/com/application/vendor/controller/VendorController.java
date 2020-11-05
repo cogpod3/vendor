@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.application.vendor.dto.VendorDTO;
 import com.application.vendor.exception.VendorException;
 import com.application.vendor.model.Vendor;
-import com.application.vendor.service.VendorService;
+import com.application.vendor.model.service.VendorService;
 
 import lombok.extern.slf4j.Slf4j;
 
